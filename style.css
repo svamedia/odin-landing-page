@@ -1,0 +1,27 @@
+/* universal styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* END */
+
+.nav-bar {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.nav-bar ul li a {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.nav-links {
+    display: flex;
+}
+
