@@ -34,3 +34,24 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+.hero {
+    background-color: #1F2937;
+}
+
+.hero-title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero-p {
+    color: #E5E7EB;
+    font-size: 18px;
+    
+}
+
+.hero-btn {
+    background-color: #3882F6;
+    border: 5px solid #3882F6;
+}
