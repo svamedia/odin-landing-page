@@ -17,11 +17,13 @@
 
 .nav-bar ul li a {
     color: white;
-    list-style-type: none;
     text-decoration: none;
 }
 
-.nav-links {
+.nav-links,
+.nav-logo {
     display: flex;
+    gap: 10px;
+    list-style-type: none;
 }
 
