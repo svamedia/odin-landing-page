@@ -18,7 +18,7 @@
 }
 
 .nav-bar ul li a {
-    color: white;
+    color: #F9FAF8;
     text-decoration: none;
 }
 
@@ -30,3 +30,7 @@
     margin: auto;
 }
 
+.nav-logo {
+    font-size: 24px;
+    font-weight: bold;
+}
