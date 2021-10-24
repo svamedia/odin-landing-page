@@ -14,7 +14,6 @@
     display: flex;
     height: 10vh;
     justify-content: space-between;
-    padding: 10px;
 }
 
 .nav-bar ul li a {
@@ -39,7 +38,7 @@
     background-color: #1F2937;
     display: flex;
     height: 75vh;
-    justify-content: space-evenly;
+    padding: 0 10vw 0 10vw;
 }
 
 .hero-title {
