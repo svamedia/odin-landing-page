@@ -88,8 +88,8 @@
     align-items: center;
     display: flex;
     flex-flow: column nowrap;
-    height: 70vh;
-    padding: 7vh 10vw 0;
+    justify-content: flex-start;
+    padding: 5vh 10vw 10vh;
 }
 
 .info-header {
@@ -100,6 +100,9 @@
 
 .features-contain {
     display: flex;
+    justify-content: space-around;
+    margin-top: 4%;
+    width: 50vw;
 }
 
 .feature {
@@ -110,5 +113,6 @@
     border: 3px solid #3882F6;
     border-radius: 12px;
     height: 170px;
+    margin-bottom: 10px;
     width: 180px;
 }
