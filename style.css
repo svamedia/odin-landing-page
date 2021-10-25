@@ -13,7 +13,7 @@
     background-color: #1F2937;
     display: flex;
     height: 10vh;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .nav-bar ul li a {
@@ -26,12 +26,12 @@
     display: flex;
     gap: 25px;
     list-style-type: none;
-    margin: auto;
 }
 
 .nav-logo {
     font-size: 24px;
     font-weight: bold;
+    margin-right: 15%;
 }
 
 .hero {
