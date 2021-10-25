@@ -80,6 +80,7 @@
     align-items: flex-start;
     display: flex;
     flex-flow: column nowrap;
+    gap: 10px;
     margin: 10% auto auto auto;
     width: 33%;
 }
