@@ -84,3 +84,15 @@
     margin: 10% auto auto auto;
     width: 33%;
 }
+.info-features {
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+    padding: 7vh 10vw 0;
+}
+
+.info-header {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 800;
+}
