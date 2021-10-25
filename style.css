@@ -85,9 +85,10 @@
     width: 33%;
 }
 .info-features {
+    align-items: center;
     display: flex;
+    flex-flow: column nowrap;
     height: 70vh;
-    justify-content: center;
     padding: 7vh 10vw 0;
 }
 
@@ -95,4 +96,19 @@
     color: #1F2937;
     font-size: 36px;
     font-weight: 800;
+}
+
+.features-contain {
+    display: flex;
+}
+
+.feature-1 {
+    width: 200px;
+}
+
+.graphic {
+    border: 2px solid #3882F6;
+    border-radius: 5px;
+    height: 150px;
+    width: 200px;
 }
