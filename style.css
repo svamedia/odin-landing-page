@@ -126,7 +126,7 @@
 }
 
 .quote-contain {
-    padding: 0 10vw;
+    padding: 0 15vw;
     margin: auto;
 }
 
@@ -135,4 +135,12 @@
     font-size: 36px;
     font-style: italic;
     font-weight: 300;
+    line-height: 1.6;
+}
+
+.quote-author {
+    display: flex;
+    font-size: 25px;
+    font-weight: 800;
+    justify-content: flex-end;
 }
