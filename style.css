@@ -118,3 +118,21 @@
     margin-bottom: 10px;
     width: 180px;
 }
+
+.quote-section {
+    display: flex;
+    background-color: #E5E7EB;
+    height: 60vh;
+}
+
+.quote-contain {
+    padding: 0 10vw;
+    margin: auto;
+}
+
+.quote-message {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
