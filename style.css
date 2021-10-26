@@ -142,5 +142,6 @@
     display: flex;
     font-size: 25px;
     font-weight: 800;
+    gap: 10px;
     justify-content: flex-end;
 }
