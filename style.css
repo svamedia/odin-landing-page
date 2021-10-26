@@ -91,7 +91,7 @@
     flex-flow: column nowrap;
     height: 60vh;
     justify-content: center;
-    padding: 5vh 10vw 10vh;
+    padding: 0 10vh;
 }
 
 .info-header {
