@@ -195,3 +195,14 @@
 .cta-header {
     font-size: 1.5em;
 }
+
+.footer {
+    color: white;
+    background-color: #1F2937;
+    display: flex;
+    height: 10vh;
+}
+
+.footer-contain {
+    margin: auto;
+}
