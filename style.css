@@ -159,7 +159,9 @@
 }
 
 .cta-banner {
+    color: white;
     background-color: #3883F6;
+    border-radius: 10px;
     display: flex;
     width: 70vw;
     height: 25vh;
@@ -170,4 +172,9 @@
     flex-flow: column nowrap;
     justify-content: center;
     padding: 0 0 0 5%;
+}
+
+.right-banner-contain {
+    display: flex;
+    margin: auto;
 }
