@@ -163,8 +163,9 @@
     background-color: #3883F6;
     border-radius: 10px;
     display: flex;
+    height: 20vh;
+    padding: 40px;
     width: 70vw;
-    height: 25vh;
 }
 
 .left-banner-contain {
