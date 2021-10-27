@@ -153,9 +153,12 @@
 }
 
 .contain {
+    display: flex;
     margin: auto;
+    padding: 0 10vw;
 }
 
 .cta-banner {
     background-color: #3883F6;
+    width: 70vw;
 }
